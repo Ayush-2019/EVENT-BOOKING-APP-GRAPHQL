@@ -26,11 +26,11 @@ const BUCKETS = {
         max:150
     },
     'Usual' : {
-        min:150,
+        min:149,
         max:300
     },
     'Expensive':{
-        min:300,
+        min:299,
         max:Number.MAX_SAFE_INTEGER
     }
 }
