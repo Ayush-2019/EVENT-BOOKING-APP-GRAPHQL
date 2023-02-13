@@ -1,8 +1,6 @@
 # EVENT-BOOKING-APP-GRAPHQL
 
-Video Demonstration of this project:- https://drive.google.com/file/d/1xIvtwIAt8U2UH7wH2kihgd-G8BLQoA0M/view?usp=sharing
-
-This project will be deployed soon....
+This project is succesfully deployed on netlify :- https://event-booking-akiledar-graphql.netlify.app/
 
 Description:-
 
