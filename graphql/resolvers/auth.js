@@ -1,7 +1,6 @@
 const {User} = require('../../models/user.model');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
-require('../../nodemon.json');
 
 module.exports = {
 
@@ -30,7 +29,6 @@ module.exports = {
     },
 
     signin:async ({email, password}) => {
-        const key = process.env.SECRET_KEY;
         const user = await User.findOne({email:email});
 
         if(!user){
