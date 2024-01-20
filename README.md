@@ -1,6 +1,7 @@
+<h1>This project is succesfully deployed on netlify :- https://event-booking-akiledar-graphql.netlify.app/</h1>
+<hr/>
 # EVENT-BOOKING-APP-GRAPHQL
 
-This project is succesfully deployed on netlify :- https://event-booking-akiledar-graphql.netlify.app/
 
 Description:-
 
